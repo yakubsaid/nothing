@@ -18,7 +18,7 @@ import calendar
 logging.basicConfig(level=logging.INFO)
 
 # Bot configuration
-BOT_TOKEN = "8054152301:AAEfPGb7sLSYfAzTTbmUsVQW72qiIb8cWGw"  # Replace with your bot token
+BOT_TOKEN = "8054152301:AAHm6iXPBcWC40HIu6ILVB_MMGjYuQXn2pQ"  # Replace with your bot token
 
 # Channel and admin configuration
 REQUIRED_CHANNEL = "@saidjamolyakubov"  # Majburiy kanal username
@@ -1366,4 +1366,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == '__main__':
+
     asyncio.run(main())
