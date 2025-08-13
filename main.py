@@ -18,7 +18,7 @@ import calendar
 logging.basicConfig(level=logging.INFO)
 
 # Bot configuration
-BOT_TOKEN = "8054152301:AAHm6iXPBcWC40HIu6ILVB_MMGjYuQXn2pQ"  # Replace with your bot token
+BOT_TOKEN = "8307914914:AAHxOfVvC-mer0FDlvD69OPtfKG6JyGMYBg"  # Replace with your bot token
 
 # Channel and admin configuration
 REQUIRED_CHANNEL = "@saidjamolyakubov"  # Majburiy kanal username
@@ -1368,3 +1368,4 @@ async def main():
 if __name__ == '__main__':
 
     asyncio.run(main())
+
