@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 BOT_TOKEN = "8307914914:AAHxOfVvC-mer0FDlvD69OPtfKG6JyGMYBg"  # Replace with your bot token
 
 # Channel and admin configuration
-REQUIRED_CHANNEL = "@saidjamolyakubov"  # Majburiy kanal username
+REQUIRED_CHANNEL = "@Muhandis_e"  # Majburiy kanal username
 ADMIN_ID = 7377694590  # Yagona admin ID
 
 # Helper function to check if user is admin
@@ -1368,4 +1368,5 @@ async def main():
 if __name__ == '__main__':
 
     asyncio.run(main())
+
 
